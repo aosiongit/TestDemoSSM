@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Mar 22 10:02:33 CST 2018
+common-core-2.0.3-guizhou-SNAPSHOT.pom>=
+common-core-2.0.3-guizhou-SNAPSHOT.jar>=
+common-core-2.0.3-guizhou-SNAPSHOT-sources.jar>=

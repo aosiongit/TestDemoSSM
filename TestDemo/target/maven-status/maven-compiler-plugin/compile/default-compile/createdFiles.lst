@@ -1,0 +1,5 @@
+com\guao\service\IUserService.class
+com\guao\controller\UserController.class
+com\guao\pojo\User.class
+com\guao\service\impl\UserServiceImpl.class
+com\guao\dao\IUserDao.class
